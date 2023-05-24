@@ -23,4 +23,4 @@ To install the AUTO-Translate-Extension, follow these steps:
 1. Navigate to any webpage in Google Chrome.
 2. Select a word that you want to translate.
 3. Press the configured keyboard shortcut to trigger the translation.
-4. A popup will appear displaying the translation and additional information from WordReference.
+4. A new tab will appear displaying the translation and additional information from WordReference.
